@@ -36,6 +36,10 @@ input, select {
   padding: $base-size;
 }
 
+.error {
+  border-color: $color-main;
+}
+
 .checkbox {
   display: block;
   position: relative;
